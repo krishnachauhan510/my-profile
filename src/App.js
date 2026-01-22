@@ -27,8 +27,10 @@ function App() {
       <p>• Portfolio Website</p>
 
       <h2>Contact</h2>
-      <a href="https://github.com/krishnachauhan510">GitHub</a> |{" "} 
-      <a href="https://www.linkedin.com/in/krishna-chauhan-188863325/">LinkedIn</a>  
+      <a href="https://github.com/krishnachauhan510">GitHub</a> |{" "}
+      <a href="https://www.linkedin.com/in/krishna-chauhan-188863325/">
+        LinkedIn
+      </a>
     </div>
   );
 }
