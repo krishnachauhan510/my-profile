@@ -1,0 +1,26 @@
+body {
+  background: #0f172a;
+  color: white;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  max-width: 400px;
+  margin: auto;
+  text-align: center;
+  padding: 40px;
+}
+
+.avatar {
+  border-radius: 50%;
+  width: 150px;
+}
+
+.bio {
+  color: #94a3b8;
+}
+
+a {
+  color: #38bdf8;
+  text-decoration: none;
+}
