@@ -3,19 +3,21 @@ import "./App.css";
 function App() {
   return (
     <div className="container">
+      
+      {/* PROFILE PHOTO */}
       <img
-        src="https://via.placeholder.com/150"
-        alt="profile"
-        className="avatar"
+        src="/profile.jpg"
+        alt="Krishna Chauhan"
+        className="profile-pic"
       />
 
       <h1>Krishna Chauhan</h1>
       <p className="bio">
-        Mining Engineering Student | Competitive Programmer | Web Learner
+        Mining Engineering Student at NITK | Competitive Programmer | Web Learner
       </p>
 
       <h2>Skills</h2>
-      <ul>
+      <ul className="skills">
         <li>C++</li>
         <li>Data Structures</li>
         <li>React</li>
@@ -23,7 +25,6 @@ function App() {
       </ul>
 
       <h2>Projects</h2>
-      <p>• NoteQuest – Gamified Notes App</p>
       <p>• Portfolio Website</p>
 
       <h2>Contact</h2>
